@@ -1,7 +1,7 @@
 #+TITLE: Inquiry
 
-This may /LOOK/ like an empyt github repository but what it *acutlly is a robust proof-of-concept for messaging other Github users. Currently it's not possible to message a user on Github but there are many occations when it might be  necissary to reach out to an account that does not povide contact links.
+This may /LOOK/ like an empty github repository but it *acutually* is a robust proof-of-concept for messaging other Github users. Currently it's not possible to message a user on Github but there are many occasions when it might be  necissary to reach out to an account that does not provide contact information.
 
-This repository exists so you can raise a notiificatino to a user via the [[https://github.com/noonker/inquiry/issues][issues]] page. All one has to do is @tag the person they wish to contact to get that users attention.
+This repository exists so you can raise a notifiction to a user via the [[https://github.com/noonker/inquiry/issues][issues]] page. All one has to do is @tag the person they wish to contact to get that users attention.
 
 I hope someone has found this useful. Thanks for looking 👀
